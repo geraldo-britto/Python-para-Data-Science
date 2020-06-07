@@ -5,7 +5,7 @@ Comandos básicos em Python e introdução às bibliotecas Pandas e Numpy.
 </p>
 <p>Fiz esse Notebook enquanto realizava meus estudos seguindo os videos do Tiago Grothe (https://geracaoanalitica.com.br/)</p>
 
-<p>----------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h2>Conteúdo:</h2>
 
